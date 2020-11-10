@@ -1,0 +1,23 @@
+{
+  "name": "javascript-audio",
+  "version": "1.0.0",
+  "description": "Experimenting with p5.js and tone.js",
+  "main": "index.js",
+  "scripts": {
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincesanders/javascript-audio.git"
+  },
+  "author": "Vincent Sanders",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vincesanders/javascript-audio/issues"
+  },
+  "homepage": "https://github.com/vincesanders/javascript-audio#readme",
+  "dependencies": {
+    "tone": "^14.7.58"
+  },
+  "devDependencies": {}
+}
